@@ -1,0 +1,23 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+*.ipynb
+
+# Virtual environments
+venv/
+env/
+my_env/
+.venv/
+
+# Additional files and directories to ignore
+.DS_Store
+*.log
+*.sqlite
+
+# Add any other file extensions or directories you'd like to ignore
